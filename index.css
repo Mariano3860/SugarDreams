@@ -17,6 +17,15 @@ main {
     margin-top: .5rem;
 } 
 
+.end-game{
+    margin-top: 25%;
+    text-align: center;
+}
+
+.end-emoji{
+    font-size: 80px;
+}
+
 @media(min-width:550px){
    main {
         flex-direction: row;
@@ -195,11 +204,3 @@ button {
 
 button:focus { outline: 0 }
 
-.end-game{
-    margin-top: 25%;
-    text-align: center;
-}
-
-.end-emoji{
-    font-size: 80px;
-}
