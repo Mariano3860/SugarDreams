@@ -17,12 +17,12 @@ main {
     margin-top: .5rem;
 } 
 
-.end-game{
+#end-game{
     margin-top: 25%;
     text-align: center;
 }
 
-.end-emoji{
+#end-emoji{
     font-size: 80px;
 }
 
